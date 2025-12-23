@@ -18,7 +18,8 @@
     "express": "^5.1.0",
     "mongoose": "^8.19.2",
     "multer": "^2.0.2",
-    "openai": "^6.7.0"
+    "openai": "^6.7.0",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.16"
